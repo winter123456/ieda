@@ -20,6 +20,7 @@ class DemoApplicationTests {
         }
     }
     void test(){
+        System.out.println("hello");
 
     }
 
