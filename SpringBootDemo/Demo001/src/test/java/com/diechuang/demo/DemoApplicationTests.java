@@ -21,6 +21,7 @@ class DemoApplicationTests {
     }
     void test(){
         System.out.println("hello");
+        System.out.println("你好");
 
     }
 

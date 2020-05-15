@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226888bc-b115-448f-a0e7-d505a82a7736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -133,7 +132,7 @@
       <workItem from="1589351148948" duration="1352000" />
       <workItem from="1589352549907" duration="11345000" />
       <workItem from="1589418152155" duration="1265000" />
-      <workItem from="1589530263132" duration="3787000" />
+      <workItem from="1589530263132" duration="4668000" />
     </task>
     <task id="LOCAL-00001" summary="这是我的第一次提交">
       <created>1589532640524</created>
@@ -142,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589532640524</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这是我的第一次提交">
+      <created>1589534587600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589534587600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="这是我的第二次提交">
+      <created>1589534752611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589534752611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是我的第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是我的第一次提交" />
+    <MESSAGE value="这是我的第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是我的第二次提交" />
   </component>
 </project>
